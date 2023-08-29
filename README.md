@@ -1,1 +1,1 @@
-Sample code to reproduce an issue that is causing an application crash under Mono version 5.4.1.
+Sample code to reproduce an issue that is causing an application crash when using the TimeZoneNames library under Mono version 5.4.1.6.
